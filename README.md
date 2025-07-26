@@ -63,10 +63,6 @@ spring.datasource.password=${DB_PASSWORD}
    $env:DB_PASSWORD="tu_password"
    ```
 
-3. **Ejecuta la aplicación**:
-   ```powershell
-   .\mvnw.cmd spring-boot:run
-   ```
 
 ### En Linux/Mac:
 
