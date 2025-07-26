@@ -82,10 +82,7 @@ spring.datasource.password=${DB_PASSWORD}
    export DB_PASSWORD="tu_password"
    ```
 
-3. **Ejecuta la aplicación**:
-   ```bash
-   ./mvnw spring-boot:run
-   ```
+
 
 ## 📱 Uso de la Aplicación
 
